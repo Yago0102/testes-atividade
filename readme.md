@@ -55,7 +55,7 @@ O site escolhido para os testes é [Sufgang](https://www.sufgang.com.br/).
 
 1. Clone este repositório: 
 ```
-git clone https://github.com/seu-usuario/.git
+git clone https://github.com/Yago0102/testes-atividade
 ```
 2. Instale as dependências:
 ```
